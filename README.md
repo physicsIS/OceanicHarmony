@@ -1,2 +1,2 @@
-# Armon-a-Oce-nica
+# Armonía Oceánica
 descomposición armónica de la maréa en Bahía Herradura
