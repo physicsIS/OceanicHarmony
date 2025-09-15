@@ -1,2 +1,2 @@
 # Armonía Oceánica
-descomposición armónica de la maréa en Bahía Herradura
+Ánalisis espectral de la marea en Bahía Herradura.
