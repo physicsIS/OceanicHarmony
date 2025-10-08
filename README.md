@@ -1,4 +1,4 @@
-![Banner](./Analisis_Espectral_Bahía_Herradura.png)
+![Banner](./herradura_picture.jpg)
  <!-- 🏷️ Badges informativos del proyecto -->
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FFT](https://img.shields.io/badge/Análisis-FFT-orange?logo=waveform)
