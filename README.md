@@ -16,10 +16,18 @@
     "If you can not explain it simply, you do not understand it well enough" -Albert Einstein
 ## 📘 Contenidos
 1. [Introducción](#-introducción)
-2. [Metodología](#-metodología)
-3. [Resultados](#-resultados)
-4. [Estructura del repositorio](#-estructura-del-repositorio)
-5. [Ejemplo de ejecución](#-ejemplo-de-ejecución)
-6. [Créditos](#-créditos)
-## Introducción
+2. [Marco Teórico](#-Marco-teórico)
+3. [Metodología](#-metodología)
+4. [Resultados](#-resultados)
+5. [Estructura del repositorio](#-estructura-del-repositorio)
+6. [Ejemplo de ejecución](#-ejemplo-de-ejecución)
+7. [Créditos](#-créditos)
+## 🔎Introducción
+    Se aplicará la transformada rápida de Fourier (FFT) a los datos del registro horario del nivel del mar (proporcionados por el CIMAR)
+    para descomponer la señal en sus componentes armónicas fundamentales M2, S2, K1, O1, entre otras. Una vez hecho este análisis,
+    se procederá a realizar pronósticos de los niveles del mar en Bahía Herradura, Costa Rica. 
+## 📚 Márco teórico
+
+## 🔨Metodología
+    Se
 
