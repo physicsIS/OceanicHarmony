@@ -1,0 +1,83 @@
+# ===========================
+# ARCHIVOS PYTHON
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ===========================
+# ENTORNOS VIRTUALES
+# ===========================
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ===========================
+# CONFIGURACIONES Y SECRETOS
+# ===========================
+# Archivos de configuración o claves privadas
+*.env
+*.ini
+*.cfg
+*.json
+secrets.*
+token_*
+config_local.py
+
+# ===========================
+# ARCHIVOS DE DATOS
+# ===========================
+# (Evita subir datasets grandes o privados)
+data/
+datasets/
+*.csv
+*.tsv
+*.dat
+*.npz
+*.npy
+*.h5
+*.txt
+
+# ===========================
+# JUPYTER NOTEBOOKS
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# LOGS Y TEMPORALES
+# ===========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===========================
+# COMPILACIÓN / BUILD
+# ===========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# ===========================
+# IDEs Y SISTEMA OPERATIVO
+# ===========================
+# VSCode / PyCharm / otros
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
