@@ -68,18 +68,21 @@ pacífico costarricense. Estos sensores son:
 El primero de ellos es un sensor por radar que funciona sin contacto directo con el agua.
 Emite pulsos de radar/microondas hacia la superficie del agua, estos se reflejan y luego mide 
 el tiempo que tarda en volver el eco. Tiene un rango de hasta 70m lo que lo hace útil 
-para distintos tipos de agua. 
-\\ El segundo sensor es un dispositivo que mide distintas condiciones de marea como presión,
-    presión de marea, temperatura y lo más importante para el presente proyecto, nivel de marea. 
-    Este dato es medido indirectamente mediante la presión hidroestática, detectando cuánto peso
-    ejerce el agua sobre el sensor. 
-\\Tras obtener los datos en formato .dat de ambos dispositivos, se procede a realizar una limpieza 
+para distintos tipos de agua.
+
+El segundo sensor es un dispositivo que mide distintas condiciones de marea como presión,
+presión de marea, temperatura y lo más importante para el presente proyecto, nivel de marea. 
+Este dato es medido indirectamente mediante la presión hidroestática, detectando cuánto peso
+ejerce el agua sobre el sensor.
+
+Tras obtener los datos en formato .dat de ambos dispositivos, se procede a realizar una limpieza 
 típica del documento mediante la libreria Pandas. Este proceso incluye eliminar valores atípicos
 relacionados con la calibración y fallas de los equipos, conversión de unidades al SI y visualizaciones 
 iniciales de las variables pertinentes con gráficos temporales.
-\\El análisis de datos se realiza mediante la FFT aplicada a la señal procesada para obtener
+
+El análisis de datos se realiza mediante la FFT aplicada a la señal procesada para obtener
 el espectro de frecuencias, las cuales se deben identificar por las dominantes astronómicas M2, S2,
-   K1, O1, etc. Después, se convierte la frecuencia a periodos para una visualización de amplitudes vs periodos.
+K1, O1, etc. Después, se convierte la frecuencia a periodos para una visualización de amplitudes vs periodos.
 La relación física de las componentes con las mareas astronómicas permitirá finalmente, realizar las predicciones 
 temporales pertinentes.
 
