@@ -27,7 +27,7 @@
     para descomponer la señal en sus componentes armónicas fundamentales M2, S2, K1, O1, entre otras. Una vez hecho este análisis,
     se procederá a realizar pronósticos de los niveles del mar en Bahía Herradura, Costa Rica. 
 ## 📚 Márco teórico
-    ## Análisis de Datos y Transformada Rápida de Fourier (FFT)
+    
 
 Python es un lenguaje de programación ampliamente utilizado en el ámbito científico debido a sus librerías especializadas. Con respecto al tratamiento de datos, la librería **Pandas** es la herramienta más empleada tanto en ciencias como en ingeniería de datos, por su facilidad para limpiar y estructurar conjuntos de datos.
 
