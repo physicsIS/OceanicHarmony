@@ -59,12 +59,14 @@ Esta herramienta permite estudiar las variaciones temporales de las mareas, iden
     El procedimiento se divide en dos etapas principales:
 1. **Tratamiento de datos**
 2. **Análisis de datos**
+
 La obtención de los datos se logró mediante el director del Centro de Investigación
 del Mar y Limnología de la Universidad de Costa Rica, por sus siglas CIMAR. 
 Dichos datos provienen de dos sensores distintos colocados en Bahía Herradura, en el
 pacífico costarricense. Estos sensores son:
 - "YSI WaterLog Nile Water Level Radar Series 517"
 - "Tide Sensor 5217/5217R"
+
 El primero de ellos es un sensor por radar que funciona sin contacto directo con el agua.
 Emite pulsos de radar/microondas hacia la superficie del agua, estos se reflejan y luego mide 
 el tiempo que tarda en volver el eco. Tiene un rango de hasta 70m lo que lo hace útil 
